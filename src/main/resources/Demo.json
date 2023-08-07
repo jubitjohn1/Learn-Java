@@ -1,0 +1,122 @@
+[
+  {
+    "product_id": 1,
+    "product_name": "Eldon Base for stackable storage shelf",
+    "product_vendor": "Muhammed MacIntyre",
+    "product_quantity": 3,
+    "product_price": -213.25,
+    "product_weight": 38.94,
+    "product_length": 35,
+    "product_region": "Nunavut",
+    "product_category": "Storage & Organization",
+    "product_discount": 0.8
+  },
+  {
+    "product_id": 2,
+    "product_name": "1.7 Cubic Foot Compact \"Cube\" Office Refrigerators",
+    "product_vendor": "Barry French",
+    "product_quantity": 293,
+    "product_price": 457.81,
+    "product_weight": 208.16,
+    "product_length": 68.02,
+    "product_region": "Nunavut",
+    "product_category": "Appliances",
+    "product_discount": 0.58
+  },
+  {
+    "product_id": 3,
+    "product_name": "Cardinal Slant-D Ring Binder Heavy Gauge Vinyl",
+    "product_vendor": "Barry French",
+    "product_quantity": 293,
+    "product_price": 46.71,
+    "product_weight": 8.69,
+    "product_length": 2.99,
+    "product_region": "Nunavut",
+    "product_category": "Binders and Binder Accessories",
+    "product_discount": 0.39
+  },
+  {
+    "product_id": 4,
+    "product_name": "R380",
+    "product_vendor": "Clay Rozendal",
+    "product_quantity": 483,
+    "product_price": 1198.97,
+    "product_weight": 195.99,
+    "product_length": 3.99,
+    "product_region": "Nunavut",
+    "product_category": "Telephones and Communication",
+    "product_discount": 0.58
+  },
+  {
+    "product_id": 5,
+    "product_name": "Holmes HEPA Air Purifier",
+    "product_vendor": "Carlos Soltero",
+    "product_quantity": 515,
+    "product_price": 30.94,
+    "product_weight": 21.78,
+    "product_length": 5.94,
+    "product_region": "Nunavut",
+    "product_category": "Appliances",
+    "product_discount": 0.5
+  },
+  {
+    "product_id": 6,
+    "product_name": "G.E. Longer-Life Indoor Recessed Floodlight Bulbs",
+    "product_vendor": "Carlos Soltero",
+    "product_quantity": 515,
+    "product_price": 4.43,
+    "product_weight": 6.64,
+    "product_length": 4.95,
+    "product_region": "Nunavut",
+    "product_category": "Office Furnishings",
+    "product_discount": 0.37
+  },
+  {
+    "product_id": 7,
+    "product_name": "Angle-D Binders with Locking Rings Label Holders",
+    "product_vendor": "Carl Jackson",
+    "product_quantity": 613,
+    "product_price": -54.04,
+    "product_weight": 7.3,
+    "product_length": 7.72,
+    "product_region": "Nunavut",
+    "product_category": "Binders and Binder Accessories",
+    "product_discount": 0.38
+  },
+  {
+    "product_id": 8,
+    "product_name": "SAFCO Mobile Desk Side File Wire Frame",
+    "product_vendor": "Carl Jackson",
+    "product_quantity": 613,
+    "product_price": 127.70,
+    "product_weight": 42.76,
+    "product_length": 6.22,
+    "product_region": "Nunavut",
+    "product_category": "Storage & Organization",
+    "product_discount": 0.32
+  },
+  {
+    "product_id": 9,
+    "product_name": "SAFCO Commercial Wire Shelving Black",
+    "product_vendor": "Monica Federle",
+    "product_quantity": 643,
+    "product_price": -695.26,
+    "product_weight": 138.14,
+    "product_length": 35,
+    "product_region": "Nunavut",
+    "product_category": "Storage & Organization",
+    "product_discount": 0.32
+  },
+  {
+    "product_id": 10,
+    "product_name": "Xerox 198",
+    "product_vendor": "Dorothy Badders",
+    "product_quantity": 678,
+    "product_price": -226.36,
+    "product_weight": 4.98,
+    "product_length": 8.33,
+    "product_region": "Nunavut",
+    "product_category": "Paper",
+    "product_discount": 0.38
+  }
+]
