@@ -8,7 +8,7 @@ import java.util.List;
 
 public class CSVDataReader implements DataReader {
     @Override
-    public List<String[]> readData(String filePath) throws IOException {
+    public  List<String[]> readData(String filePath) throws IOException {
         List<String[]> data = new ArrayList<>();
         try (BufferedReader lineReader = new BufferedReader(new FileReader(filePath))) {
             String lineText;
