@@ -39,7 +39,7 @@ public class mainTest {
 
         CSVDataReader csvDataReader = new CSVDataReader();
 
-        List<String[]> res= csvDataReader.readData("C:\\Users\\jubit.john\\IdeaProjects\\maven_project\\src\\test\\resources\\testDemo.csv");
+        List<String[]> res= csvDataReader.readData("src\\test\\resources\\testDemo.csv");
         List<String[]> expectedData = new ArrayList<>();
         String[] dataRow = {
                 "1", "Eldon Base for stackable storage shelf", "Muhammed MacIntyre", "3", "-213.25", "38.94", "35", "Nunavut", "Storage & Organization", "0.8"
