@@ -8,7 +8,7 @@ This project is a practical example developed during the Developer Training prog
 * PostgreSQL Database Server
 
 ## How to Execute
-1. Begin by cloning this repository using the command: `git clone https://github.com/adityapillai1/jdbc-postgresql-maven-example.git`.
+1. Begin by cloning this repository using the command: `git clone `.
 2. Set up a PostgreSQL database and create a table named "people" with the following structure:
 
 ```sql
