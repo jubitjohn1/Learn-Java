@@ -5,20 +5,12 @@ import java.sql.PreparedStatement;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
-
 import org.junit.Before;
-import org.mockito.InjectMocks;
 import org.mockito.Mock;
-import org.mockito.Mockito;
 import utils.databaseUtil;
 import org.junit.Test;
 import static org.junit.Assert.*;
-
-
 import org.mockito.MockitoAnnotations;
-
-
-
 import static org.mockito.ArgumentMatchers.*;
 import static org.mockito.Mockito.*;
 

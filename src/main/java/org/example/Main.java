@@ -1,14 +1,9 @@
 package org.example;
 import utils.databaseUtil;
-
-import java.io.FileInputStream;
 import java.io.IOException;
 import java.sql.Connection;
-import java.sql.DriverManager;
 import java.sql.SQLException;
-import java.sql.*;
 import java.util.List;
-import java.util.Properties;
 import java.util.logging.Logger;
 
 
@@ -17,8 +12,6 @@ public class Main {
     public static void main(String[] args) throws SQLException, ClassNotFoundException {
 
         String csvFilePath = "src\\main\\resources\\Demo.json";
-
-        int batchSize = 20;
 
         Connection con;
         try {

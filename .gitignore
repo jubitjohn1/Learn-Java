@@ -8,7 +8,7 @@ target/
 *.iws
 *.iml
 *.ipr
-config.properties
+/config.properties
 
 ### Eclipse ###
 .apt_generated
