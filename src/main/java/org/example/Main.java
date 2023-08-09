@@ -16,7 +16,7 @@ public class Main {
     private static final Logger logger = Logger.getLogger(Main.class.getName());
     public static void main(String[] args) throws SQLException, ClassNotFoundException {
 
-        String csvFilePath = "C:\\Users\\jubit.john\\IdeaProjects\\maven_project\\src\\main\\resources\\Demo.json";
+        String csvFilePath = "src\\main\\resources\\Demo.json";
 
         int batchSize = 20;
 
